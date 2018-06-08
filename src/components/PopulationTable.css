@@ -1,0 +1,26 @@
+#population-table-div {
+    width: 1200px;
+    padding-bottom: 10px;
+}
+
+#year-input {
+    width: 100px;
+    float: left;
+}
+
+#input-go {
+    float: left;
+    margin-left: 6px;
+}
+
+#submit-year-div {
+    text-align: center;
+}
+
+#submit-year-div form {
+    display: inline-block;
+}
+
+#submit-year-help-small {
+    display: block;
+}
