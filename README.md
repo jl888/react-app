@@ -21,4 +21,4 @@ See the section about [running tests](#running-tests) for more information.
 
 ## Source
 
-API: [api.population.io] (http://api.population.io)
+API: [api.population.io](http://api.population.io)
